@@ -1,4 +1,4 @@
-# Sala de Aula do 6o ano
+# 6º ano
  - Português
  - [Matemática](matematica/)
  - [Ciências](https://padlet.com/fredericohorie/9e41orplusemk1g3)
